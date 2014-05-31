@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: c2abee1156ce44781ac0cfa94d48e724
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Expansion_plug
+    100002: WiiMote_button_1
+    100004: WiiMote_button_2
+    100006: WiiMote_button_a
+    100008: WiiMote_button_b
+    100010: WiiMote_button_home
+    100012: WiiMote_button_minus
+    100014: WiiMote_button_plus
+    100016: WiiMote_button_power
+    100018: WiiMote_dpad
+    100020: WiiMote_light_0
+    100022: WiiMote_light_1
+    100024: WiiMote_light_2
+    100026: WiiMote_light_3
+    100028: //RootNode
+    400000: Expansion_plug
+    400002: WiiMote_button_1
+    400004: WiiMote_button_2
+    400006: WiiMote_button_a
+    400008: WiiMote_button_b
+    400010: WiiMote_button_home
+    400012: WiiMote_button_minus
+    400014: WiiMote_button_plus
+    400016: WiiMote_button_power
+    400018: WiiMote_dpad
+    400020: WiiMote_light_0
+    400022: WiiMote_light_1
+    400024: WiiMote_light_2
+    400026: WiiMote_light_3
+    400028: //RootNode
+    2300000: Expansion_plug
+    2300002: WiiMote_button_1
+    2300004: WiiMote_button_2
+    2300006: WiiMote_button_a
+    2300008: WiiMote_button_b
+    2300010: WiiMote_button_home
+    2300012: WiiMote_button_minus
+    2300014: WiiMote_button_plus
+    2300016: WiiMote_button_power
+    2300018: WiiMote_dpad
+    2300020: WiiMote_light_0
+    2300022: WiiMote_light_1
+    2300024: WiiMote_light_2
+    2300026: WiiMote_light_3
+    2300028: //RootNode
+    2800000: __AssetImporterPreview
+    3300000: Expansion_plug
+    3300002: WiiMote_button_1
+    3300004: WiiMote_button_2
+    3300006: WiiMote_button_a
+    3300008: WiiMote_button_b
+    3300010: WiiMote_button_home
+    3300012: WiiMote_button_minus
+    3300014: WiiMote_button_plus
+    3300016: WiiMote_button_power
+    3300018: WiiMote_dpad
+    3300020: WiiMote_light_0
+    3300022: WiiMote_light_1
+    3300024: WiiMote_light_2
+    3300026: WiiMote_light_3
+    3300028: //RootNode
+    4300000: WiiMote_base
+    4300002: WiiMote_light_0
+    4300004: WiiMote_light_1
+    4300006: WiiMote_light_2
+    4300008: WiiMote_light_3
+    4300010: WiiMote_button_power
+    4300012: WiiMote_dpad
+    4300014: WiiMote_button_a
+    4300016: WiiMote_button_b
+    4300018: WiiMote_button_1
+    4300020: WiiMote_button_2
+    4300022: WiiMote_button_home
+    4300024: WiiMote_button_plus
+    4300026: WiiMote_button_minus
+    4300028: Expansion_plug
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 
